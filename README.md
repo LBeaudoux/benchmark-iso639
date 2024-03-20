@@ -17,8 +17,8 @@ $ tox -e python-iso639
 
 | Package                                                           | part 3 → part 1      |
 | :---------------------------------------------------------------- | :------------------: |
-| [iso-639](https://pypi.org/project/iso-639/0.4.5/)                | 1,228                |
+| [iso-639](https://pypi.org/project/iso-639/0.4.5/)                | 117,577              |
 | [iso639-lang](https://pypi.org/project/iso639-lang/2.2.3/)        | **466,091**          |
-| [python-iso639](https://pypi.org/project/python-iso639/2024.2.7/) | 117,577              |
+| [python-iso639](https://pypi.org/project/python-iso639/2024.2.7/) | 1,228                |
 
-Table 1: Number of calls processed per second. The benchmark consists in 10,000 iterations on a Linux machine running Python 3.8.
+*Table 1: Number of calls processed per second. The benchmark consists in 10,000 iterations on a Linux machine running Python 3.8.*
